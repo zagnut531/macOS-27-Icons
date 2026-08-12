@@ -29,14 +29,18 @@ This repo includes all macOS 27 icons exported from my MacBook Air as PNGs, in o
 * Everything else (minor)
 
 ### Beta 5: less shadows, more 3D and gradients
-* App Store
-* Apple Diagnostics
-* Books
-* Preview (iOS)
-* Remote (iOS) * Safari
-* Screen Sharing
-* (System) Settings
-* Siri
+App Store
+Books Safari
+Screen Sharing
+(System) Settings
+Siri
+Preview (iOS)
+Remote (iOS)
+Spotlight
+Install Command Line Developer Tools
+WidgetKit Simulator
+PIPAgent
+Wallpaper
 * Everything else (minor)
 
 19 icons have changed (majorly) as of beta 3, so I documented those changes, where other resouces don't. All icons changed in beta 3, toning down the outlines, but here are images of the major changes:
