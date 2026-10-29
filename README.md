@@ -30,7 +30,8 @@ This repo includes all macOS 27 icons exported from my MacBook Air as PNGs, in o
 
 ### Beta 5: less shadows, more 3D and gradients
 * App Store
-* Books * Safari
+* Books
+* Safari
 * Screen Sharing
 * (System) Settings
 * Siri
